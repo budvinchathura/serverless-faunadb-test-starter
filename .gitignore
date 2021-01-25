@@ -1,0 +1,17 @@
+.serverless
+.webpack
+*.log
+npm-debug.log
+dist
+lib-cov
+coverage
+node_modules
+.DS_Store
+.tmp
+.env
+env.js
+env.yml
+env.json
+admin.env
+tmp
+
