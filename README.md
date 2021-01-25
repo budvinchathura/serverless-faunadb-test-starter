@@ -1,6 +1,8 @@
 # Introduction
 
 Starter code used with serverless faundb tutorial article.
+
+Complete source code can be accessed in https://github.com/budvinchathura/serverless-faunadb-test
 &nbsp;
 
 # Prerequisites and Configuration
@@ -90,7 +92,6 @@ curl https://xxx.execute-api.us-east-1.amazonaws.com/dev/users
 Example output:
 ```bash
 {"status":"SUCCESS","data":{"users":[{"name":"Test user 2","dob":"1990-03-15","city":"New City","email":"test@abc.com","id":"288254855497122309"},{"name":"Test user 1","dob":"2000-01-01","city":"Downtown","email":"abc@abc.com","id":"288601255069090308"}]}}
-
 ```
 
 &nbsp;
