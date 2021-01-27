@@ -1,6 +1,7 @@
 # Introduction
 
-Starter code used with serverless faundb tutorial article.
+Starter code used with serverless tutorial.
+https://budvin.medium.com/going-serverless-718ed43db563
 
 Complete source code can be accessed in https://github.com/budvinchathura/serverless-faunadb-test
 &nbsp;
